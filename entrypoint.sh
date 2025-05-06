@@ -52,4 +52,3 @@ else
     tail -F /tmp/crond.log /tmp/sync.log
   fi
 fi
-
